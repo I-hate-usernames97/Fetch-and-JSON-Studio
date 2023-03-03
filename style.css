@@ -14,3 +14,12 @@
     margin-bottom: 20px;
     border-radius: 6px;
 }
+.green {
+color: green
+}
+
+#count{
+ width: 300px;
+ margin: 25px;
+ color: green;
+}
